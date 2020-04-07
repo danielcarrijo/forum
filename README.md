@@ -1,4 +1,4 @@
-This is a simple forum created using Laravel and JQUERY AJAX. Click here if you want to see a [demo]() (If css is not working, try to refresh the page. Database is also on web, so maybe it might be kinf of slow). But if you prefer to run it local, follow the steps presented at <a href="#getting-started">Getting Started </a>
+This is a simple forum created using Laravel and JQUERY AJAX. Click here if you want to see a [demo](http://serene-scrubland-60573.herokuapp.com/) (If css is not working, try to refresh the page. Database is also on web, so maybe it might be kinf of slow). But if you prefer to run it local, follow the steps presented at <a href="#getting-started">Getting Started </a>
 
 ## Features available so far
 <ul>
